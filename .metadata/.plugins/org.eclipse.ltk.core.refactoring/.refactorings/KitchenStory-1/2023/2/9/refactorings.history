@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;KitchenStory-1/src/main/webapp/showfoodadmin.jsp&apos; to &apos;showfoodtoadmin.jsp&apos;" description="Rename resource &apos;showfoodadmin.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/showfoodadmin.jsp" name="showfoodtoadmin.jsp" stamp="1677570227787" updateReferences="true"/>
+</session>

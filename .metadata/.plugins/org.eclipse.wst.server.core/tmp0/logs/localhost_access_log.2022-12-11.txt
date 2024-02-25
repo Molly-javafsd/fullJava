@@ -1,0 +1,9 @@
+127.0.0.1 - - [11/Dec/2022:12:52:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:52:14 +0530] "GET /LearnerAcademy/Admin.jsp HTTP/1.1" 200 437
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:52:14 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:52:21 +0530] "POST /LearnerAcademy/LoginController HTTP/1.1" 200 2158
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:52:26 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=1 HTTP/1.1" 200 1594
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:52:31 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=5 HTTP/1.1" 200 1431
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:52:41 +0530] "GET /LearnerAcademy/subjectTeacher1.jsp?cid=5&teacher=Nikita&subject=B.Arch HTTP/1.1" 500 2756
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:53:21 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=5 HTTP/1.1" 200 1431
+0:0:0:0:0:0:0:1 - - [11/Dec/2022:12:53:28 +0530] "GET /LearnerAcademy/subjectTeacher1.jsp?cid=5&teacher=Nikita&subject=B.Arch HTTP/1.1" 500 2764

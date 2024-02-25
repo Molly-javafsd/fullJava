@@ -1,0 +1,8 @@
+127.0.0.1 - - [30/Nov/2022:13:14:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:13:14:53 +0530] "GET /ServletWithDB/StudentForm.html HTTP/1.1" 200 1164
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:13:14:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:13:15:01 +0530] "POST /ServletWithDB/RetriveController HTTP/1.1" 200 1562
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:13:15:27 +0530] "POST /ServletWithDB/InsertController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:13:15:27 +0530] "GET /ServletWithDB/Success.html HTTP/1.1" 200 157
+0:0:0:0:0:0:0:1 - - [30/Nov/2022:13:15:33 +0530] "POST /ServletWithDB/RetriveController HTTP/1.1" 200 1655
+127.0.0.1 - - [30/Nov/2022:14:04:48 +0530] "GET / HTTP/1.1" 404 751

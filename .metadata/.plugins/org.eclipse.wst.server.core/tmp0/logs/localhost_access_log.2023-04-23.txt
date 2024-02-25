@@ -1,0 +1,6 @@
+127.0.0.1 - - [23/Apr/2023:20:30:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Apr/2023:20:30:16 +0530] "GET /ServletWithDB/StudentForm.html HTTP/1.1" 200 1164
+0:0:0:0:0:0:0:1 - - [23/Apr/2023:20:30:16 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Apr/2023:20:30:19 +0530] "POST /ServletWithDB/RetriveController HTTP/1.1" 200 1961
+0:0:0:0:0:0:0:1 - - [23/Apr/2023:20:30:28 +0530] "POST /ServletWithDB/DeleteController HTTP/1.1" 200 1171
+0:0:0:0:0:0:0:1 - - [23/Apr/2023:20:30:30 +0530] "POST /ServletWithDB/RetriveController HTTP/1.1" 200 1893

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;AgeVerificationToVoteTest.java&apos; to &apos;JunitPhase5/src/com.example.test&apos;&#x0D;&#x0A;- Original project: &apos;JunitPhase5&apos;&#x0D;&#x0A;- Destination element: &apos;JunitPhase5/src/com.example.test&apos;&#x0D;&#x0A;- Original element: &apos;com.example.main.AgeVerificationToVoteTest.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.example.test" element1="/src&lt;com.example.main{AgeVerificationToVoteTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1678104165137" units="1" version="1.0"/>
+</session>

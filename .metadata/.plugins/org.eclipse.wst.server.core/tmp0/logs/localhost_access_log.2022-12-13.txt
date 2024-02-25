@@ -1,0 +1,17 @@
+127.0.0.1 - - [13/Dec/2022:22:14:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:27 +0530] "GET /LearnerAcademy/Admin.jsp HTTP/1.1" 200 437
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:27 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:34 +0530] "POST /LearnerAcademy/LoginController HTTP/1.1" 200 2158
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:38 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=1 HTTP/1.1" 200 1637
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:43 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=3 HTTP/1.1" 200 1474
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:52 +0530] "POST /LearnerAcademy/AssignController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:52 +0530] "GET /LearnerAcademy/Index.jsp HTTP/1.1" 200 2142
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:14:55 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=3 HTTP/1.1" 200 1542
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:15:03 +0530] "GET /LearnerAcademy/classrepo.jsp?cid=3 HTTP/1.1" 200 896
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:15:35 +0530] "GET /LearnerAcademy/classrepo.jsp?cid=5 HTTP/1.1" 200 709
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:15:43 +0530] "GET /LearnerAcademy/AddStudent.jsp? HTTP/1.1" 200 3499
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:16:27 +0530] "GET /LearnerAcademy/AddStudentController.jsp?stuid=10&stufname=Disha&stulname=Sharma&studob=2019-08-15&stuadd=Hyderabad&stuphone=7845120369&classname=5%2CB.Arch HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:16:28 +0530] "GET /LearnerAcademy/Success.jsp HTTP/1.1" 200 2310
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:16:30 +0530] "GET /LearnerAcademy/classrepo.jsp?cid=5 HTTP/1.1" 200 833
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:16:43 +0530] "GET /LearnerAcademy/subjectTeacher.jsp?cid=5 HTTP/1.1" 200 1474
+0:0:0:0:0:0:0:1 - - [13/Dec/2022:22:16:54 +0530] "GET /LearnerAcademy/Logout HTTP/1.1" 200 471

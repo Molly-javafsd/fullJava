@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+  <bean id="airtel" class="com.example.Airtel">
+  <!-- Setter injection -->
+  <property name="getDataStrength" value="The strength of airtel is good"></property>
+  
+  </bean>
+   <bean id="idea" class="com.example.Idea">
+    <!-- CONSTRUCTOR INJECTION -->
+  <constructor-arg name="dataStrength" value="idea has good signal"></constructor-arg>
+   </bean>
+</beans>

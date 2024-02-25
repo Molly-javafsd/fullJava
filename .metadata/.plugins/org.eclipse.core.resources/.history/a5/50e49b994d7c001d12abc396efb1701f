@@ -1,0 +1,15 @@
+package com.glvc;
+
+public class Margarita implements PizzaMakerEx {
+
+	public void VegOrNVeg() {
+		System.out.println("Its Veg pizza");
+		
+	}
+
+	public void CheezyOrNot() {
+		System.out.println("Yes,its cheezy");
+		
+	}
+
+}

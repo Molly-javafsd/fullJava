@@ -1,0 +1,20 @@
+package com.glvc;
+
+public class ChickenDominator implements PizzaMakerEx{
+private String hasJalapeno;
+	public ChickenDominator(String hasJalapeno) {
+	super();
+	this.hasJalapeno = hasJalapeno;
+}
+
+	public void VegOrNVeg() {
+		System.out.println("Its Non-Veg pizza");
+		
+	}
+
+	public void CheezyOrNot() {
+		System.out.println("Yes,its cheezy too");
+		
+	}
+
+}
